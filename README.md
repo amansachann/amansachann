@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amansachann&label=Profile%20views&color=0e75b6&style=flat" alt="amansachann" /> </p>
 
-- 🔭 I’m currently working at **Accenture.**
+- 🔭 I’m currently working at **Deloitte USI.**
 
 - 🌱 I’m currently learning **Spring Boot and System Design.**
 
